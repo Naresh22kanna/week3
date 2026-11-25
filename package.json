@@ -2,11 +2,11 @@
   "name": "week-3",
   "version": "1.0.0",
   "description": "",
-  "main": "queryparam.mjs",
+  "main": "student.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-dev": "nodemon ./queryparam.js",
-    "start": "node ./queryparam.js"
+    "start-dev": "nodemon ./student.js",
+    "start": "node ./student.js"
   },
   "keywords": [],
   "author": "",
